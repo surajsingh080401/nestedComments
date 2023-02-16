@@ -1,0 +1,6 @@
+module Pods_MessageReplies_MessageRepliesTests {
+  umbrella header "Pods-MessageReplies-MessageRepliesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

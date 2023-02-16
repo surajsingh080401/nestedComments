@@ -1,0 +1,6 @@
+module Pods_MessageReplies {
+  umbrella header "Pods-MessageReplies-umbrella.h"
+
+  export *
+  module * { export * }
+}
